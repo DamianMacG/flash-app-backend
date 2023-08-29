@@ -1,9 +1,5 @@
-## Deployed Here: [lifecare.ondernder.com](https://life-care.onrender.com/)
+# Flash It
 
-### ℹ️ Use the following Login Credentials:
+### Interview preparation app for Junior Developers
 
-username: seana.s@lifecare.com  
-password: lifecaretestuser123!
-
-username: anastassia.b@lifecare.com  
-password: lifecaretestuser123!
+## Deployed here - https://flash-it-front-end.onrender.com/
